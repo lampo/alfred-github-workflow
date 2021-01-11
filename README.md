@@ -49,3 +49,11 @@ Install libraries with:
 ```bash
 ./install-libraries.sh
 ```
+
+## Packaging
+
+To package up a new release, simply create a `zip` of the project and upload to `releases`:
+
+```
+zip -r Github.alfredworkflow . -x '*.git*'
+```
