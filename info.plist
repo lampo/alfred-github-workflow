@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>bundleid</key>
-	<string>com.matthewmcg.github</string>
+	<string>com.lampo.github</string>
 	<key>connections</key>
 	<dict>
 		<key>089FEA1F-952B-4635-91C6-24861402B336</key>
@@ -132,7 +132,7 @@
 		</array>
 	</dict>
 	<key>createdby</key>
-	<string>Matthew McGarvey</string>
+	<string>Ramsey Solutions</string>
 	<key>description</key>
 	<string></string>
 	<key>disabled</key>
@@ -215,7 +215,7 @@
 				<key>spaces</key>
 				<string></string>
 				<key>url</key>
-				<string>https://github.com/matthewmcgarvey/alfred-github-workflow#setup</string>
+				<string>https://github.com/lampo/alfred-github-workflow#setup</string>
 				<key>utf8</key>
 				<true/>
 			</dict>
@@ -532,6 +532,6 @@
 		</dict>
 	</dict>
 	<key>webaddress</key>
-	<string>https://github.com/matthewmcgarvey/alfred-github-workflow</string>
+	<string>https://github.com/lampo/alfred-github-workflow</string>
 </dict>
 </plist>
